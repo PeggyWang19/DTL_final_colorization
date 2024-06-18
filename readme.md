@@ -1,0 +1,21 @@
+data数据格式：
+download from https://pan.baidu.com/s/1qDN10qbSgnc_m6tFpXw51A
+/data
+    /train
+        /imagse_black
+            /img-0-frog.png
+            /img-1-truck.png
+            ...
+        /images_color
+            /img-0-frog.png
+            /img-1-truck.png
+            ...
+    /test
+        /imagse_black
+            /img-0-cat.png
+            /img-1-ship.png
+            ...
+        /images_color
+            /img-0-cat.png
+            /img-1-ship.png
+            ...
